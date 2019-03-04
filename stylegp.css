@@ -1,0 +1,14 @@
+header {
+  background-color: lightpink;
+}
+body {
+  background-color: lightgray;
+}
+
+.bd-example {
+  width:640px;
+  height:380px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 50px;
+}
