@@ -1,8 +1,10 @@
 header {
+  font-family: 'Srisakdi', cursive;
   background-color: lightpink;
 }
 body {
   background-color: lightgray;
+  font-family: 'Josefine Sans', sans-serif;
 }
 
 .bd-example {
@@ -13,8 +15,10 @@ body {
   margin-top: 50px;
 }
 
-.HCB_comment_box {
-  margin-left: 400px;
+#HCB_comment_box {
+  width:620px;
+  height:380px;
+  margin-left: 410px;
   margin-right: 400px;
   margin-top: 50px;
 }
